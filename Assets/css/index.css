@@ -108,5 +108,39 @@ span{
     border: 1px solid red;
     margin: 20px;
 }
+.ul2{
+    border-bottom: 1px solid white;
+    background-color: black;
+    color: aliceblue;
+}
+.btn2{
+    padding: 10px 20px;
+    border-top-right-radius: 20px;
+}
+ header.page2{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    
+    border: 1px solid blue;
+    color: antiquewhite;
+    
+   
+}
+#mag{
+    border: 1px solid green;
+    
+
+}
+.fom{
+    display: ;
+    
+    
+    
+}
+input{
+    border: 1px solid blue;
+    
+}
 
  
