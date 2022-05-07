@@ -58,3 +58,27 @@ h2{
     padding-left: 10px;
     
 }
+section{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    margin-top: 20px;
+    margin-top: 20px;
+    
+}
+.moving2{
+    border: 1px solid red;
+    margin-right: 40px;
+    justify-content: center;
+    align-content: center;
+    font-size: xx-large;
+    
+}
+#learn{
+    background-color: black;
+    text-decoration: #ffac12;
+    color: #ffac12;
+    padding: 20px;
+    font-size: large;
+    border-top-right-radius: 25px;
+}
