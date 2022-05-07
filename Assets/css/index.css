@@ -1,0 +1,60 @@
+header{
+    background-image: url(../img/moving\ 1.png);
+
+background-size: cover;
+height: 100%;
+
+
+
+
+
+}
+ul{
+    list-style-type: none;
+    
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+    padding: 50px 200px 25px 50px;
+
+
+
+}
+li{
+    padding: 20px;
+    text-decoration: none;
+    text-decoration: white;
+
+}
+button{
+ margin-left: 20px;
+ padding: 0px 10px 0px 10px;
+  background-color: #ffac12;
+  height: fit-content;
+ 
+}
+.btn{
+    background-color: black;
+    text-decoration: #ffac12;
+    color: #ffac12;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.h{
+    
+    font-size: xx-large;
+    font-weight: 100px;
+    text-align: left;
+    color: #ffac12;
+    opacity: 1.0;
+    padding: 0px 20px 0px 10px;
+}
+h2{
+    color: aliceblue;
+    font-size: xx-large;
+    padding-left: 10px;
+    
+}
