@@ -124,6 +124,8 @@ span{
     
     border: 1px solid blue;
     color: antiquewhite;
+    padding: 20px;
+    height: 100px;
     
    
 }
@@ -133,14 +135,27 @@ span{
 
 }
 .fom{
-    display: ;
+    border: 2px solid red;
+    padding: 20px;
+    align-items: flex-end;
+
     
     
     
 }
 input{
     border: 1px solid blue;
+    display: block;
+    align-items: flex-end;
+    margin: 20px;
     
+    
+}
+form button{
+    background-color: black;
+    color: #ffac12;
+    padding: 5px 20px 5px 20px;
+    border-top-right-radius: 10px;
 }
 
  
