@@ -161,17 +161,16 @@ form button{
     padding: 5px 20px 5px 20px;
     border-top-right-radius: 10px;
 }
-table{
-
+.login{
     
-   
-
-
 }
 tr{
     border: 2px solid blue;
     padding: 10px;
     display: flex;
+}
+.feature{
+    border: 1px solid red;
 }
 
  
