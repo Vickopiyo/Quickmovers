@@ -169,5 +169,8 @@ tr{
     padding: 10px;
     display: flex;
 }
-
+h2{
+    border: none;
+    
+}
  
