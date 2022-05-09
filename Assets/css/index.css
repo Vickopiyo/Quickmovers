@@ -87,7 +87,8 @@ section{
     display: flex;
     
    
-    grid-template-columns: 33.33%;
+    flex-wrap: wrap;
+    width: 300px;
 }
 .movers img{
     margin: 20px;
@@ -173,5 +174,42 @@ tr{
 .feature{
     border: 1px solid red;
 }
-
- 
+#line{
+    width: 100px;
+    height: 2px;
+    background-image: linear-gradient(to right, #FFAC12,black);
+    margin-right: 1200px;
+}
+.top{
+    padding-top: 80px;
+    padding-left: 100px;
+}
+.aa{
+    background-color: whitesmoke;
+    border-radius: 0px 0px 25px 25px;
+    width: 290px;
+    height: 120px;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+.paragragh{
+    display: flex;
+    justify-content: space-around;
+    x
+}
+.aa > h4{
+    border-bottom: 1px solid grey;
+    padding-bottom: 20px;
+}
+.paragragh p{
+    border-right: 1px solid grey;
+    height: 55px;
+}
+ .frm{
+     height: 100px;
+     background-color: red;
+ }
+ i{
+     padding-left: 30px;
+ }
