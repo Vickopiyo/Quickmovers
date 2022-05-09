@@ -91,6 +91,7 @@ section{
 }
 .movers img{
     margin: 20px;
+    border-top-right-radius: 20px;
 }
 footer{
     background: black;
