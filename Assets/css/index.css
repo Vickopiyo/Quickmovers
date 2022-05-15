@@ -120,6 +120,7 @@ footer{
     
     justify-content: center;
     text-decoration-color: aliceblue;
+    align-items: center;
 }
 span{
     color: #ffac12;
@@ -298,3 +299,41 @@ tr{
      padding-top: 20px;
      
  }
+ #imgA+{
+     border: 1px solid red;
+ }
+ .column div p i{
+     color: #ffac12;
+ }
+ .cont1{
+     border: 1px solid red;
+     width: 230px;
+     border-radius: 10px;
+     margin: 10px;
+    
+     
+    
+ }
+ .imgComp{
+     background-color: aliceblue;
+     margin-top: 0px;
+
+ }
+ .cont1 div h3 {
+     padding-top: 10px;
+     border: 1px solid red;
+ }
+  .cont div  p{
+      border: 1px solid red;
+      display: flex;
+      flex-direction: row;
+  }
+  .input{
+      padding: 5px 0px 5px 0px;
+  }
+  .icon{
+      display: flex;
+      padding: 0px;
+      border-bottom-right-radius: 10px;
+      border border: bottom left radius 10px; ;
+  }
